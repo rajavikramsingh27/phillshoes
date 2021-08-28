@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "939024662190",
+    "firebase_url": "https://phillshoes-7bb9f.firebaseio.com",
+    "project_id": "phillshoes-7bb9f",
+    "storage_bucket": "phillshoes-7bb9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939024662190:android:a9c1a8de245813fe4e773f",
+        "android_client_info": {
+          "package_name": "com.phillshoes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939024662190-cn7m57qvkodgj5o070u3ui45rg5todd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApvHj1wawifNxKnTEiCNu0WSNqD5hMw8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939024662190-cn7m57qvkodgj5o070u3ui45rg5todd3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "939024662190-8fjmr3l3bmlhrm91so3fe0i8qi2niuli.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.phillshoes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

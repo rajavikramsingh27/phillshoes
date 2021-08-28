@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>939024662190-8fjmr3l3bmlhrm91so3fe0i8qi2niuli.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.939024662190-8fjmr3l3bmlhrm91so3fe0i8qi2niuli</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBbbJo48kk8WjB0AtYwCtDaOSbGMGKHkjw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>939024662190</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.phillshoes</string>
+	<key>PROJECT_ID</key>
+	<string>phillshoes-7bb9f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>phillshoes-7bb9f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:939024662190:ios:35fefaebcb5b96a34e773f</string>
+	<key>DATABASE_URL</key>
+	<string>https://phillshoes-7bb9f.firebaseio.com</string>
+</dict>
+</plist>
